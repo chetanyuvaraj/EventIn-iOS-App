@@ -1,0 +1,2 @@
+# EventIn-iOS-App
+EventIn is a mobile, geo-location based social events application. The application provides features to search for their interested events and share their views about it. This Application find events happening in a particular location using eventful API and share about them by collaborating with Facebook (using OAuth, SLComposeViewController) and Twilio API, in iOS. Integrated Beacon technology to notify the application user whenever he/she reaches the venue.
